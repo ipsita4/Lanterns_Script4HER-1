@@ -5,7 +5,7 @@ Final Links (VV IMP)
 
 https://contact-us-now.netlify.app/  - HTML, CSS, Ajax, React, Bootstrap
 
-https://lanterns-home.netlify.app/
+https://lanterns-homepage.netlify.app/
 
 https://book-workshop.netlify.app/
 
