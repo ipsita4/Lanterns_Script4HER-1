@@ -14,7 +14,7 @@ If you are building your startup from scratch and are in dire need of funds, Lan
 
 Let your products meet the investors and mentors it needs for it growth.
 
-ayour own community using Lanterns.
+Build your own community using Lanterns.
 Attend the workshops to meet potential business partners, upskill yourself, get resources and increase the net worth of your business.
 
 Let your products meet the investors and mentors it needs for it growth.
