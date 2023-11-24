@@ -2,6 +2,8 @@
 
 Link To Lanterns : https://lanterns-homepage.netlify.app/
 
+Live img: Screenshot 2023-11-24 184925.png
+
 Problem Statement : 
 
 1) Visibility - Due to lack of mobility and connectivity, often the rural women
